@@ -10,6 +10,9 @@
 Road crossing cat Java game
 
 # How to Run
+
+Minimum requirements: Java 18
+
 run command:
 ```console
 java -jar CatWalkGame.jar
